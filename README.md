@@ -1,6 +1,10 @@
-- moleculaINVENTADA.pdb: Fitxer en format PDB que conté una nova molècula inventada. 
+- moleculaINVENTADA.pdb: Fitxer en format PDB que conté una nova molècula inventada, la qual el VMD llegeix malament.
 
-- moleculaINVENTADA.xyz: Fitxer en format XYZ que conté una nova molècula inventada. 
+- moleculaINVENTADA.xyz: Fitxer en format XYZ que conté una nova molècula inventada, la qual el VMD llegeix malament.
+
+- molecule.pdb: Fitxer en format PDB que conté una nova molècula inventada, la qual el VMD llegeix correctament.
+
+- molecule.xyz: Fitxer en format XYZ que conté una nova molècula inventada, la qual el VMD llegeix correctament.
 
 - protein.pdb: Fitxer en format PDB que conté una proteïna (enzim). 
 
